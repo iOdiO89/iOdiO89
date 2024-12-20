@@ -10,7 +10,8 @@ A Front-End Developer from South Korea
 [![My Skills](https://skillicons.dev/icons?i=threejs,aws,dynamodb,firebase,postgresql,unity)](https://skillicons.dev)
 
 ## Rewards
-- [2023.09]   제21회 홍익대학교 창업 경진대회 최우수상
+- [2023.08]   4th UMC DEMODAY 대상
 - [2023.09]   제1회 NE(O)RDINARY DEMODAY 대상
-- [2023.10]   세종 UNION 청년 창업 경진대회 우수상
-- [2024.04]   2024 예비창업패키지(일반분야) 선정
+- [2023.09]   제21회 홍익대학교 창업아이템 경진대회 최우수상
+- [2023.10]   세종 UNION 창업경진대회 우수상
+- [2023.11]   홍익대학교 컴퓨터공학과 졸업전시회 우수상
