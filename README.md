@@ -3,11 +3,7 @@
 A Front-End Developer from South Korea
 
 ## Languages & Tools
-### Used as Main
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,styledcomponents,react,nextjs,tailwind)](https://skillicons.dev)
-
-### Once I've used
-[![My Skills](https://skillicons.dev/icons?i=threejs,aws,dynamodb,firebase,postgresql,unity)](https://skillicons.dev)
 
 ## Rewards
 - [2023.08]   4th UMC DEMODAY 대상
